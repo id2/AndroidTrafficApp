@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Les Cameras de Traffic d\'Ottawa</string>
+    <string name="title_activity_maps">Mon Application</string>
+    <string name="title">Titre</string>
+    <string name="searchHint">Chercher les cameras</string>
+    <string name="back_info">Veuillez appuyer le bouton de retour pour retourner à la liste des caméras.</string>
+
+    <string name="normal_map">Carte</string>
+    <string name="hybrid_map">Hybride</string>
+    <string name="satellite_map">Satellite</string>
+    <string name="terrain_map">Terrain</string>
+    <string name="dropped_pin">Position</string>
+    <string name="Camera_Map">Carte de Cameras</string>
+
+    <string name="Camera_info">Camera Map</string>
+    <string name="recyclerCam">what ?</string>
+    <string name="buttonMap">Carte des Cameras</string>
+    <string name="textView3">Cameras Disponibles </string>
+    <string name="List_View">Liste de cameras</string>
+    <string name="Json_View">Liste De Camera Json</string>
+    <string name="Project">Project - Programmation Entreprise Web</string>
+
+
+
+</resources>
